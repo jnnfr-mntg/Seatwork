@@ -1,0 +1,18 @@
+.name{
+    width: 410px;
+    background-color: black;
+    border: 2px solid rgb(124, 121, 122);
+    border-radius:  5px;
+    text-align: center;
+
+}
+h1{
+    color: white;
+}
+
+img{
+    width: 400px;
+    border: 5px dotted brown;
+    border-radius: 50%;
+
+}
